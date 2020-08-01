@@ -1,0 +1,12 @@
+.input-search{
+    display: inline-flex;
+    margin-top: 10px;
+    margin-left: 15px;
+
+}
+
+.input-search .form-control{
+    width: 300px;
+    margin-left: 15px;
+}
+

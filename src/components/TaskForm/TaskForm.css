@@ -1,0 +1,46 @@
+.taskForm{
+    font-family: sans-serif;
+    border: 1px solid transparent;
+    width: 350px;
+    height: 340px;
+    border-color: #faebcc;
+
+}
+.panel-heading{
+    display: flex;
+    background-color: #fcf8e3;
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    width : 350px;
+}
+
+.panel-heading h3{
+    margin-top: 5px;
+    margin-left: 10px;
+    color: #8a6d3b;
+    font-size: 16px;
+}
+
+.panel-heading span {
+    margin-top: 7px;
+    margin-left: 130px;
+    color: #8a6d3b;
+}
+
+.form{
+    width: 270px;
+    margin-left: 20px;
+}
+
+.buttonForm{
+    text-align: center;
+}
+
+.buttonForm button {
+    margin-top: 10px;
+    margin-left: 5px;
+    color: white;
+    width: 100px;
+}
